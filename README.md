@@ -20,6 +20,7 @@ The repository includes:
 | Medium     | 34               |
 | Hard       | 12               |
 | **Total**  | **98**           |
+![image](https://github.com/user-attachments/assets/c61151d8-2bea-42b8-b4d1-24be7ee55576)
 
 
 
